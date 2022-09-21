@@ -205,8 +205,16 @@ for x_count in number:
 """names = ['John', 'bob' , 'Sarah' , 'abdullah' , 'Mary']
 print(names)"""
 
-names = ['John', 'bob' , 'Sarah' , 'abdullah' , 'Mary']
-print(names[2:4])
+"""names = ['John', 'bob' , 'Sarah' , 'abdullah' , 'Mary']
+print(names[2:4])"""
+
+
+"""numbers = [3, 6 ,10 ,5 ,7 ]
+max = numbers [0]
+for number in numbers:
+    if number > max:
+        max = number
+print(max)"""
 
     
 
